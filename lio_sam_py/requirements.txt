@@ -1,0 +1,4 @@
+gtsam==4.3a1
+numpy
+scipy
+open3d

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Auh"
+  given-names: "Eugene"
+  orcid: "https://orcid.org/0000-0001-9349-5046"
+title: "LIO-SAM in Python"
+version: 0.1.0
+# doi: 
+date-released: 2026-10-31
+url: "https://github.com/egauh0113/lio-sam-py"
